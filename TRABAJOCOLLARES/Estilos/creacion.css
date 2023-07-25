@@ -1,0 +1,61 @@
+
+  .form-information {
+    max-width: 400px;
+    margin: 50px auto;
+  }
+  
+  .form-information-childs {
+    background-color:#f0c792;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 7px;
+    font-size: 17px;
+    font: 1em sans-serif;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="date"] {
+    width: 91%;
+    padding: 8px;
+    border: 1px solid #e0b986;
+    border-radius: 4px;
+    font-size: 15px;
+    font: 1em sans-serif;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #e0b276;
+    color: #85450a;
+    border: none;
+    border-radius: 5px;
+
+  }
+  
+  button:hover {
+    background-color: #e6a050;
+  }
+  
+  a {
+    color: #123153;
+    text-decoration: none;
+    font: 1em sans-serif;
+  }
+
+  

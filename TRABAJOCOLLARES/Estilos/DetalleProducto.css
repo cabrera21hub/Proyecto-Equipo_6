@@ -1,0 +1,61 @@
+
+  .grid {
+    display: grid;
+    gap: 30px;
+    padding: 5px;
+  }
+  
+  .items {
+    text-align: center;
+  }
+  
+  .items img {
+    width: 400px; 
+    height: 400px; 
+    object-position: center;
+  }
+  
+  .items .info {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  .items h3 {
+    font-size: 30px;
+    margin: 0%;
+    color: #ff7b00;
+  }
+  
+  .items p {
+    font-size: 1.3rem;
+    color: #ffffff;
+    margin: 0%;
+  }
+  
+  .items .precio p {
+    margin: 0%;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  /* Estilos para el botón */
+  .fila {
+    margin-top: 15px;
+  }
+  
+  .fila button {
+    background-color: #e0b276;
+    color: #85450a;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+  .fila button:hover {
+    background-color: #e6a050;
+  }
+
+  

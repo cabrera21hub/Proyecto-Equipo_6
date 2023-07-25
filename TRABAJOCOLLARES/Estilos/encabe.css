@@ -1,0 +1,17 @@
+body {
+    background-color:#f1dbbe;
+    margin: 0%;
+    font-family: sans-serif;
+}
+header{
+    display: flex;
+    min-height: 61px;
+    background-color:  #f1dbbe;
+    flex-direction: column;
+    padding: 3px 40px;
+
+}
+.color{
+    background-color:#e2b485; 
+    padding: 11px 40px;
+}

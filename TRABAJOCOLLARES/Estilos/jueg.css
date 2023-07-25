@@ -1,0 +1,53 @@
+/* Estilos para la tabla */
+.table-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.form-information {
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.centered-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.centered-table th,
+.centered-table td {
+  border: 3px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.centered-table th {
+  background-color: #e6a050;
+
+}
+
+
+
+.form input[type="text"] {
+  width: 91%;
+  padding: 8px;
+  border: 1px solid #e0b986;
+  border-radius: 4px;
+  font-size: 15px;
+  font: 1em sans-serif;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: #e0b276;
+  color: #85450a;
+  border: none;
+  border-radius: 5px;
+
+}
+.submit-button:hover {
+  background-color: #e6a050;
+}

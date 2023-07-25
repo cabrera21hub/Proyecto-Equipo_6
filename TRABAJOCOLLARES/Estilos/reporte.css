@@ -1,0 +1,49 @@
+/* Estilos para la tabla */
+.table-container {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .centered-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .centered-table th,
+  .centered-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .centered-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .form {
+    display: contents;
+  }
+  
+  .form input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Estilos para el botón */
+  .submit-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  

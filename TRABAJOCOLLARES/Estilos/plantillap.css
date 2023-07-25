@@ -1,0 +1,106 @@
+body {
+    background-color: #eea654;
+    margin: 0;
+    padding: 0;
+    font: 1em sans-serif;
+    background-image: linear-gradient(100deg, #464545, #64646420), url(../Img/patas.jpg);
+    background-size:cover;
+    background-position: center;
+}
+  header {
+    background-color: #eeaa5c;
+    padding: 5px;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .main-menu {
+    background-color:#fd8700;
+    padding: 10px;
+  }
+  
+  .menu-area ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+
+  }
+  
+  .menu-area li {
+    margin-right: 20px;
+  
+    border-radius: 4px;
+    padding: 2px;;
+  }
+  
+  .menu-area a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
+  .menu-area a:hover {
+    background-color: #e6a050;
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  .logo {
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-img {
+    max-width: 90px;
+    margin-right: 6px; /* Añadir un espacio entre la imagen y el texto */
+  }
+  
+  .logo-nombre {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 25px;
+  }
+  
+
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+
+}
+
+.contact-info {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.title-footer {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
